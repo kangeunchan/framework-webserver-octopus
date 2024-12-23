@@ -10,3 +10,6 @@ proc-macro = true
 proc-macro2 = "1.0"
 quote = "1.0"
 syn = { version = "2.0.91", features = ["full"] }
+actix-web = "4.9.0"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
